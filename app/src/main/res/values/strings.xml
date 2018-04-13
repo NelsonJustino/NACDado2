@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NACDado</string>
+
+    <string name="vitorias">Vitórias</string>
+    <string name="empates">Empates</string>
+    <string name="derrotas">Derrotas</string>
+    <string name="nomedojogador">Nome do Jogador</string>
+</resources>
